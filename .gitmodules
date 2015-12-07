@@ -1,0 +1,3 @@
+[submodule "cookbooks/bash-it-cookbook"]
+	path = cookbooks/bash-it-cookbook
+	url = https://github.com/EdHurtig/bash-it-cookbook
